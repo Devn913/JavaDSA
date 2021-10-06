@@ -1,2 +1,3 @@
 # JavaDSA
-My implementation of Data Structures &amp; Alogrithms using Java.
+My implementation of Data Structures &amp; Algorithms using Java.
+* LinkedList
