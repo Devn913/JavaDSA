@@ -48,8 +48,6 @@ public class StacksUsingArray {
         s.push(1);
         s.push(2);
         s.push(2);
-
-
     }
 
 }
